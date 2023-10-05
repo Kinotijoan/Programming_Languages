@@ -1,5 +1,6 @@
-# Joan Kinoti
+# JOAN NKATHA KINOTI
 # SCT 211/0042-2022
+
 user_name = input("What is your name?")
 print("Welcome {}".format(user_name))
 num_1 = int(input("Enter a number:"))
