@@ -1,5 +1,5 @@
 # JOAN NKATHA KINOTI
-# SCT 211/0042-2022
+# SCT 211-0042/2022
 
 year_of_birth = int(input("Enter your year of birth:"))
 current_year = int(input("Enter the current year:"))
